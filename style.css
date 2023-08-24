@@ -422,7 +422,7 @@ header.sticky{
 	justify-content: center;
 	text-align: center;
 	border-radius: 12px;
-	background-image: url(../img-20230818T113249Z-001/img/intro.png);
+	background-image: url("img-20230818T113249Z-001/img/intro.png");
 	background-size: cover;
 }
 .center h3{
